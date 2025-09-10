@@ -55,6 +55,6 @@ Check out the [Next.js deployment docs](https://nextjs.org/docs/app/building-you
 ---
 
 ## 👨‍💻 Author
-**Daksh Saini** – Builder of Smart Mock (Hackathon-winning platform).
-- GitHub: [@yourusername](https://github.com/iamdakshsainii)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/daksh-saini)
+**Mayank Kasaudhan** – Builder of Smart Mock (Hackathon-winning platform).
+- GitHub: [@yourusername](https://github.com/mayank11660)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/mayank-kasaudhan-004b052a3/)
